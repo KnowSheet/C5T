@@ -4,6 +4,9 @@ The componets of **Current**, somewhat user-facing in the top to implementation 
 
 Task | Stack | Module | Maturity Level | Remaining Milestones / Comments
 :--: | :---: | :----: | :------------: | :-----------------------------:
+Language bindings | Developer-facing | Not started
+Browser-based data dictionary creation | Developer-facing | Not started
+Browser-based topology definition | Developer-facing | Not started
 Large Android and iPhone clients | Frontend | [Alohalytics](https://github.com/KnowSheet/Alohalytics) | Used in Maps.me | Diverged between Maps.me and KnowSheet. Need to converge. (*)
 Data Dictionary Thesaurus | FE + BE | Originally [Bricks/cerealize](https://github.com/KnowSheet/Bricks#cerealize) + need to rethink iOS | Mature + In progress | Dima has the design, Dima to code over the weekend.
 iPhone Mixpanel client replacement | iPhone | In progress | In progress | Dima + Sirewire = `<3`.
